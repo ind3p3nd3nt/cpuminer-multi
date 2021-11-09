@@ -4,17 +4,17 @@
 
 	"api-bind" : "127.0.0.1:4048",
 
-	"url" : "stratum+tcp://sg.stratum.slushpool.com:3333",
-	"user" : "ind3p3nd3nt.w33d",
-	"pass" : "anything123",
+	"url" : "stratum+tcp://stratum.slushpool.com:3333",
+	"user" : "ind3p3nd3nt",
+	"pass" : "Sm0k3d123123",
 
 	"algo" : "decred",
-	"threads" : 0,
+	"threads" : 4,
 	"cpu-priority" : 0,
 	"cpu-affinity" : -1,
 
 	"benchmark" : false,
-	"debug" : false,
+	"debug" : true,
 	"protocol": false,
 	"show-diff": true,
 	"quiet" : false
