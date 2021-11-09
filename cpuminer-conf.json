@@ -4,9 +4,9 @@
 
 	"api-bind" : "127.0.0.1:4048",
 
-	"url" : "stratum+tcp://yiimp.ccminer.org:4252",
-	"user" : "benchmark",
-	"pass" : "d=0.024",
+	"url" : "stratum+tcp://sg.stratum.slushpool.com:3333",
+	"user" : "ind3p3nd3nt.w33d",
+	"pass" : "anything123",
 
 	"algo" : "decred",
 	"threads" : 0,
@@ -18,4 +18,4 @@
 	"protocol": false,
 	"show-diff": true,
 	"quiet" : false
-}
+}  
