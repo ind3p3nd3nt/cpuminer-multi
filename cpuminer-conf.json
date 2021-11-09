@@ -4,9 +4,9 @@
 
 	"api-bind" : "127.0.0.1:4048",
 
-	"url" : "stratum+tcp://stratum.slushpool.com:3333",
-	"user" : "ind3p3nd3nt",
-	"pass" : "Sm0k3d123123",
+	"url" : "stratum+tcp://sha256.usa-east.nicehash.com:3334",
+	"user" : "3DSXzLAQBEELhXP8JbbpgDN3bonwDLRc3w",
+	"pass" : "awdawdawd",
 
 	"algo" : "decred",
 	"threads" : 4,
